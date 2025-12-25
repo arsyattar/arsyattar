@@ -1,5 +1,5 @@
-## Hallo Semua...🤗
-## Aku adalah seorang mahasiswa yang tertarik belajar pemrograman web.
+## Hello my name is Attar🤗
+## I'm just a student who is learning how to become a professional programmer
 
 <!--
 **arsyattar/arsyattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
