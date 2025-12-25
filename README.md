@@ -56,11 +56,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arsyattar&show_icons=true&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=arsyattar&theme=dracula" height="150" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=dracula" />
 </div>
 
