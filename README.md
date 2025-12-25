@@ -1,6 +1,5 @@
 ## Hello my name is Attar🤗
-## I'm just a student who is learning how to become a professional programmer
-
+## Welcome to my profile guys🙌
 <!--
 **arsyattar/arsyattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![my favorit character](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg1YXM1aWE0OXR3MzVnc3psbnVlazVnbWZlOWJndXVhaWI4dHh2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif)
