@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <h2 align="center">🛠️ Skills</h2>
+  <h2 align="center">Skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
@@ -39,7 +39,7 @@
 
 
 <div align="center">
-  <h2 align="center">🌐 Social Media</h2>
+  <h2 align="center">Social Media</h2>
   <a href="https://www.linkedin.com/in/arsy-sihabuddin-attar-19b2103a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -53,15 +53,15 @@
 
 ###
 
+<h2 align="center">GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://count.getloli.com/@:arsyattar?theme=sketch-2&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=dracula" />
 </div>
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=dracula" />
+  <img src="https://count.getloli.com/@:arsyattar?theme=sketch-2&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
