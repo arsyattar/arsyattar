@@ -60,6 +60,20 @@
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arsyattar&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arsyattar&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=github-dark&hide_border=true" />
+</p>
+
+###
 <h2 align="center">Visitors</h2>
 <div align="center">
   <img src="https://count.getloli.com/@:arsyattar?theme=sketch-2&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
