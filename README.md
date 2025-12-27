@@ -54,21 +54,6 @@
 ###
 
 <h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=dracula" />
-</div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsyattar&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arsyattar&theme=dark&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsyattar&theme=github-dark&hide_border=true" />
 </p>
